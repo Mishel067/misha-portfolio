@@ -10,7 +10,7 @@ I'm a 12-year-old developer from Vladimir, Russia
 - [**GradeBot**](https://github.com/Mishel067/grade-bot)
 - [**chess-analyzer**](https://github.com/Mishel067/chess-analyzer)
 
-> "I started coding at 12. No teachers. No curses. Just Colab and will."
+> "I started coding at 12. No teachers. No courses. Just Colab and will."
 
 ---
 
