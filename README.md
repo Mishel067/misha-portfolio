@@ -12,6 +12,7 @@ I'm a 12-year-old developer from Vladimir, Russia
 - [**gradebot2.0**](https://github.com/Mishel067/gradebot2.0)
 - [**gradebot2.1**](https://github.com/Mishel067/gradebot2.1)
 - [**gradebot3.0**](https://github.com/Mishel067/grade-bot3.0)
+- [**grade-bot4.0**](https://github.com/Mishel067/grade-bot4.0)
 > "I started coding at 12. No teachers. No courses. Just Colab and will."
 
 ---
